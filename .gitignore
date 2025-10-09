@@ -2,3 +2,4 @@
 ./kafka_alert/slack/.env
 ./kafka_alert/email/.env
 ./kafka_alert/pushover/.env
+
